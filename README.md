@@ -4,11 +4,11 @@ Exercises and apps made while taking a JavaScript class
 ## Web apps
 Some of the web apps created while taking this course can be accessed at:
 
-* Hangman app: [enderb-hangman.surge.sh](http://enderb-hangman.surge.sh)
+* Hangman app: [enderb-hangman.surge.sh](https://enderb-hangman.surge.sh)
 
-* Notes app: [enderb-notes.surge.sh](http://enderb-notes.surge.sh)
+* Notes app: [enderb-notes.surge.sh](https://enderb-notes.surge.sh)
 
-* Todo app: [enderb-todo.surge.sh](http://enderb-todo.surge.sh)
+* Todo app: [enderb-todo.surge.sh](https://enderb-todo.surge.sh)
 
 
 ## Boilerplate
